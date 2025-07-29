@@ -1,4 +1,4 @@
-## Effect of Demonstrations with Temporal Biases on Learning Rewards using Inverse Reinforcement Learning.
+## Effect of Demonstrations with Temporal Biases on Learning Rewards using Inverse Reinforcement Learning
 
 This repository presents my Bachelor thesis project titled "Investigating Inverse Reinforcement Learning from Human Behavior: Effect of Demonstrations with Temporal Biases on Learning Rewards using Inverse Reinforcement Learning."
 
