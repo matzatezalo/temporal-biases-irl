@@ -1,3 +1,5 @@
+## Effect of Demonstrations with Temporal Biases on Learning Rewards using Inverse Reinforcement Learning.
+
 This repository presents my Bachelor thesis project titled "Investigating Inverse Reinforcement Learning from Human Behavior: Effect of Demonstrations with Temporal Biases on Learning Rewards using Inverse Reinforcement Learning."
 
 This project explores the impact of temporal cognitive biases on Inverse Reinforcement Learning (IRL) algorithms when learning reward functions from expert demonstrations. Humans are prone to cognitive biases, including time-inconsistent decision-making, which can complicate the recovery of maximized rewards. The research proposes a methodology to generate synthetic demonstrations that emulate human data with these biases. The Maximum Entropy IRL (MEIRL) algorithm is utilized to recover reward functions from these biased expert models and compare their performance against unbiased models, based on the paper from (Ziebart et al., 2008).
